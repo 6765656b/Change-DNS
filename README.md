@@ -16,10 +16,10 @@ DNS Providers List:
 Usage
 ------
 Add executable permission:
-```bash
+```shell
 $ chmod +x Change_DNS.sh
 ```
 Run the script:
-```bash
+```shell
 $ ./Change_DNS.sh
 ```
