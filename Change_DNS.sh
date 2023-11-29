@@ -8,10 +8,12 @@ declare -A dns_providers=(
   ["radar.game"]="10.202.10.10 10.202.10.11"
   ["Electrotm"]="78.157.42.101 78.157.42.100"
   ["Begzar"]="185.55.226.26 185.55.225.25"
+  ["Google DNS"]="8.8.8.8 8.8.4.4"
   ["Quad9 DNS"]="9.9.9.9"
   ["OpenDNS"]="208.67.222.222 208.67.220.220"
   ["Cloudflare DNS"]="1.1.1.1 1.0.0.1"
-  ["Google DNS"]="8.8.8.8 8.8.4.4"
+  ["Cloudflare DNS (Block Malware)"]="1.1.1.2 1.0.0.2"
+  ["Cloudflare DNS (Block Malware & Adult Content)"]="1.1.1.3 1.0.0.3"
 )
 
 # Find current DNS provider
