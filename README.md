@@ -6,6 +6,10 @@ DNS Providers List:
 - Cloudflare
 - Google
 - OpenDNS
+- AdGuard DNS
+- CleanBrowsing
+- Alternate DNS
+- Comodo DNS
 - Quad9
 - Shecan 
 - Electrotm 
